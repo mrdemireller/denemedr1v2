@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://solarpanel.dr1.pro/sitemap.xml
+
+# Host directive to specify canonical domain
+Host: https://solarpanel.dr1.pro
